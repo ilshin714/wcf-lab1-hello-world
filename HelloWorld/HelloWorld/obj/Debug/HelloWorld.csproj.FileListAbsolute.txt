@@ -1,0 +1,7 @@
+C:\Users\ilshin\source\repos\WCF\wcf-lab1-hello-world\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\ilshin\source\repos\WCF\wcf-lab1-hello-world\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Users\ilshin\source\repos\WCF\wcf-lab1-hello-world\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Users\ilshin\source\repos\WCF\wcf-lab1-hello-world\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\ilshin\source\repos\WCF\wcf-lab1-hello-world\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ilshin\source\repos\WCF\wcf-lab1-hello-world\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\ilshin\source\repos\WCF\wcf-lab1-hello-world\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
